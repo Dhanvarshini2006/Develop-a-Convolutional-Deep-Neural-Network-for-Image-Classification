@@ -3,6 +3,18 @@
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
+## PROBLEM STATEMENT:
+
+Image classification is a fundamental task in computer vision, where the goal is to assign an input image to one of several predefined categories. Traditional machine learning approaches often struggle to capture complex patterns in images. Therefore, this project aims to develop a Convolutional Deep Neural Network (CNN) that can automatically learn hierarchical features from images and perform accurate classification.
+
+The objective is to design and implement a CNN model using multiple layers such as convolutional layers, pooling layers, and fully connected layers to extract and learn important features from the dataset. The model should be trained and evaluated on a labeled image dataset to classify images into their respective classes.
+
+The developed model should achieve high accuracy, effectively generalize to unseen data, and demonstrate the advantages of deep learning techniques in image classification tasks.
+
+## Neural Network Model:
+
+<img width="959" height="433" alt="567560573-ca98d4ce-65d5-42ab-b25a-f7c3f63eab61" src="https://github.com/user-attachments/assets/68d1429c-97ff-4148-ad9a-dbff338bdaef" />
+
 
 
 ## DESIGN STEPS
